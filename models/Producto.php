@@ -1,4 +1,3 @@
-  
 <?php
     class Producto extends Conectar{
         public function get_producto(){
@@ -60,6 +59,8 @@
             $sql->execute();
             return $resultado=$sql->fetchAll();
         }
+
+
 
     }
 ?>

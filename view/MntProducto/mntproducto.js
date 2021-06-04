@@ -74,7 +74,7 @@ function guardaryeditar(e){
 
             swal.fire(
                 'Registro!',
-                'El registro correctamente.',
+                'El producto fue registrado correctamente.',
                 'success'
             )
         }

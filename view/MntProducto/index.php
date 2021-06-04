@@ -28,18 +28,16 @@
     <meta name="description" content="Premium Quality and Responsive UI for Dashboard.">
     <meta name="author" content="ThemePixels">
 
-    <title>Mantenimiento de producto</title>
+    <title>Mantenimiento de Producto</title>
 
     <!-- vendor css -->
     <link href="../../public/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
     <link href="../../public/lib/Ionicons/css/ionicons.css" rel="stylesheet">
     <link href="../../public/lib/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
     <link href="../../public/lib/jquery-switchbutton/jquery.switchButton.css" rel="stylesheet">
-    <link href="../../public/lib/highlightjs/github.css" rel="stylesheet">
-    
+
     <link href="../../public/lib/datatables/jquery.dataTables.css" rel="stylesheet">
     <link href="../../public/datatables/buttons.dataTables.min.css" rel="stylesheet"/>
-    <link href="../../public/lib/select2/css/select2.min.css" rel="stylesheet">
 
     <!-- Bracket CSS -->
     <link rel="stylesheet" href="../../public/css/bracket.css">
@@ -58,18 +56,18 @@
             <span class="menu-item-label">Dashboard</span>
           </div><!-- menu-item -->
         </a><!-- br-menu-link -->
+
         <a href="#" class="br-menu-link">
           <div class="br-menu-item">
             <i class="menu-item-icon icon ion-ios-filing-outline tx-24"></i>
             <span class="menu-item-label">Mantenimiento</span>
             <i class="menu-item-arrow fa fa-angle-down"></i>
-          </div><!-- menu-item -->
-        </a><!-- br-menu-link -->
+          </div>
+        </a>
         <ul class="br-menu-sub nav flex-column">
           <li class="nav-item"><a href="../MntProducto/" class="nav-link">Producto</a></li>
         </ul>
-     
-      </div><!-- br-sideleft-menu -->
+      </div>
 
       <label class="sidebar-label pd-x-15 mg-t-25 mg-b-20 tx-info op-9">Information Summary</label>
 
@@ -142,7 +140,7 @@
                 <!-- loop starts here -->
                 <a href="" class="media-list-link">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img3.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <div class="d-flex align-items-center justify-content-between mg-b-5">
                         <p class="mg-b-0 tx-medium tx-gray-800 tx-14">Donna Seay</p>
@@ -155,7 +153,7 @@
                 <!-- loop ends here -->
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img4.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <div class="d-flex align-items-center justify-content-between mg-b-5">
                         <p class="mg-b-0 tx-medium tx-gray-800 tx-14">Samantha Francis</p>
@@ -167,7 +165,7 @@
                 </a>
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img7.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <div class="d-flex align-items-center justify-content-between mg-b-5">
                         <p class="mg-b-0 tx-medium tx-gray-800 tx-14">Robert Walker</p>
@@ -179,7 +177,7 @@
                 </a>
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img5.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <div class="d-flex align-items-center justify-content-between mg-b-5">
                         <p class="mg-b-0 tx-medium tx-gray-800 tx-14">Larry Smith</p>
@@ -212,7 +210,7 @@
                 <!-- loop starts here -->
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img8.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <p class="tx-13 mg-b-0 tx-gray-700"><strong class="tx-medium tx-gray-800">Suzzeth Bungaos</strong> tagged you and 18 others in a post.</p>
                       <span class="tx-12">October 03, 2017 8:45am</span>
@@ -222,7 +220,7 @@
                 <!-- loop ends here -->
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img9.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <p class="tx-13 mg-b-0 tx-gray-700"><strong class="tx-medium tx-gray-800">Mellisa Brown</strong> appreciated your work <strong class="tx-medium tx-gray-800">The Social Network</strong></p>
                       <span class="tx-12">October 02, 2017 12:44am</span>
@@ -231,7 +229,7 @@
                 </a>
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img10.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <p class="tx-13 mg-b-0 tx-gray-700">20+ new items added are for sale in your <strong class="tx-medium tx-gray-800">Sale Group</strong></p>
                       <span class="tx-12">October 01, 2017 10:20pm</span>
@@ -240,7 +238,7 @@
                 </a>
                 <a href="" class="media-list-link read">
                   <div class="media pd-x-20 pd-y-15">
-                    <img src="../img/img5.jpg" class="wd-40 rounded-circle" alt="">
+                    <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                     <div class="media-body">
                       <p class="tx-13 mg-b-0 tx-gray-700"><strong class="tx-medium tx-gray-800">Julius Erving</strong> wants to connect with you on your conversation with <strong class="tx-medium tx-gray-800">Ronnie Mara</strong></p>
                       <span class="tx-12">October 01, 2017 6:08pm</span>
@@ -256,7 +254,7 @@
           <div class="dropdown">
             <a href="" class="nav-link nav-link-profile" data-toggle="dropdown">
               <span class="logged-name hidden-md-down">Katherine</span>
-              <img src="../img/img1.jpg" class="wd-32 rounded-circle" alt="">
+              <img src="http://via.placeholder.com/64x64" class="wd-32 rounded-circle" alt="">
               <span class="square-10 bg-success"></span>
             </a>
             <div class="dropdown-menu dropdown-menu-header wd-200">
@@ -308,7 +306,7 @@
             <a href="" class="contact-list-link new">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img2.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -321,7 +319,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img3.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="mg-l-10">
@@ -333,7 +331,7 @@
             <a href="" class="contact-list-link new">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img4.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -346,7 +344,7 @@
             <a href="" class="contact-list-link new">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img5.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -359,7 +357,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img6.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -371,7 +369,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img7.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -383,7 +381,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img8.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-success bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -400,7 +398,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img2.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -412,7 +410,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img3.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="mg-l-10">
@@ -424,7 +422,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img4.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -436,7 +434,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img5.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -448,7 +446,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img6.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -460,7 +458,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img7.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -472,7 +470,7 @@
             <a href="" class="contact-list-link">
               <div class="d-flex">
                 <div class="pos-relative">
-                  <img src="../img/img8.jpg" class="wd-40 rounded-circle" alt="">
+                  <img src="http://via.placeholder.com/280x280" class="wd-40 rounded-circle" alt="">
                   <div class="contact-status-indicator bg-gray-500 bd-br-primary"></div>
                 </div>
                 <div class="contact-person">
@@ -715,6 +713,8 @@
 
     </div><!-- br-mainpanel -->
     <!-- ########## END: MAIN PANEL ########## -->
+
+    <?php require_once("modalmantenimiento.php");?>
 
     <script src="../../public/lib/jquery/jquery.js"></script>
     <script src="../../public/lib/popper.js/popper.js"></script>
